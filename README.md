@@ -1,5 +1,5 @@
 # React Components
-
+MY NOTE: Parent-child paradigm = components
 ## Overview
 
 We'll introduce components, explain why they're important, and look at a few examples.
